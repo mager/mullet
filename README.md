@@ -1,5 +1,5 @@
 # mullet
 
-## Instructions
+## License
 
-Use this repo to learn how to use git.
+Check the License file.
